@@ -1,9 +1,9 @@
-package com.example.Alpha;
+package com.example.Alfa;
 
-import com.example.Alpha.Clients.HistoricalRateClient;
-import com.example.Alpha.Clients.LatestRateClient;
-import com.example.Alpha.Response.CurrencyResponse;
-import com.example.Alpha.Services.CurrencyRateService;
+import com.example.Alfa.Clients.HistoricalRateClient;
+import com.example.Alfa.Clients.LatestRateClient;
+import com.example.Alfa.Response.CurrencyResponse;
+import com.example.Alfa.Services.CurrencyRateService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
@@ -22,7 +22,7 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @SpringBootTest
-class AlphaApplicationTests {
+class AlfaApplicationTests {
 
     private String yesterday;
     Map<String, Double> todayRates;

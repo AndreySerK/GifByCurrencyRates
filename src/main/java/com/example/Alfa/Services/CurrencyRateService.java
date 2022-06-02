@@ -1,8 +1,8 @@
-package com.example.Alpha.Services;
+package com.example.Alfa.Services;
 
-import com.example.Alpha.Clients.HistoricalRateClient;
-import com.example.Alpha.Clients.LatestRateClient;
-import com.example.Alpha.Response.CurrencyResponse;
+import com.example.Alfa.Clients.HistoricalRateClient;
+import com.example.Alfa.Clients.LatestRateClient;
+import com.example.Alfa.Response.CurrencyResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

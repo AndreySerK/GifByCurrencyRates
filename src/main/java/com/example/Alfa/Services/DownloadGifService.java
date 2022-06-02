@@ -1,8 +1,8 @@
-package com.example.Alpha.Services;
+package com.example.Alfa.Services;
 
-import com.example.Alpha.Clients.*;
-import com.example.Alpha.DTO.GifObject;
-import com.example.Alpha.Response.GifResponse;
+import com.example.Alfa.Clients.*;
+import com.example.Alfa.DTO.GifObject;
+import com.example.Alfa.Response.GifResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

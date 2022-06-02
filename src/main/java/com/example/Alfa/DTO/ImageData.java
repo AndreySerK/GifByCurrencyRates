@@ -1,11 +1,12 @@
-package com.example.Alpha.Response;
+package com.example.Alfa.DTO;
 
-import com.example.Alpha.DTO.GifObject;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;
 
+import java.util.Map;
+
 @Data
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class GifResponse {
-    private GifObject data;
+public class ImageData {
+    private Map<String,String> original;
 }

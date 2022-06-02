@@ -1,4 +1,4 @@
-package com.example.Alpha.Response;
+package com.example.Alfa.Response;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;

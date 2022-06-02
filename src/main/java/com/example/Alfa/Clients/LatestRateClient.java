@@ -1,6 +1,6 @@
-package com.example.Alpha.Clients;
+package com.example.Alfa.Clients;
 
-import com.example.Alpha.Response.CurrencyResponse;
+import com.example.Alfa.Response.CurrencyResponse;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;

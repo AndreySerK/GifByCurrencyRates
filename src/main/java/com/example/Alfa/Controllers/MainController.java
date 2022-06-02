@@ -1,6 +1,6 @@
-package com.example.Alpha.Controllers;
+package com.example.Alfa.Controllers;
 
-import com.example.Alpha.Services.DownloadGifService;
+import com.example.Alfa.Services.DownloadGifService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
