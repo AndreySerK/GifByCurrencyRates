@@ -21,7 +21,7 @@ Download and run:
 
     git clone https://github.com/AndreySerK/GifByCurrencyRates
 
-    cd */GifByCurrencyRates
+    cd GifByCurrencyRates
     gradle build  # To create jar file
     java -jar */build/libs/Alfa-0.0.1-SNAPSHOT.jar # To run this service
 
